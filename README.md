@@ -2,5 +2,5 @@
 This Repo contains I think 250 countries with their names<br>
 And their code name ,
 ## Getting Started
-ALl you need is to execute it in mysql or if you are using another type of sql engine you can easily convert it
+All you need is to execute it in mysql or if you are using another type of sql engine you can easily convert it
 
